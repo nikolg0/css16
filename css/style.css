@@ -1,0 +1,12 @@
+h1 {
+  color: white;
+}
+body {
+  background-color: #808080;
+}
+
+div {
+  width: 5cm;
+  height: 5cm;
+  background-color: #fea500;
+}
